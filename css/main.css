@@ -1,0 +1,30 @@
+.form-invalid textarea,
+.form-invalid textarea:focus {
+  border-color:#dc3232!important;
+  box-shadow:0 0 2px rgba(204,0,0,.8)
+}
+
+.required {
+  color:#dc3232!important;
+}
+
+.truncate {
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.column-id {
+  width: 20%;
+}
+.column-addresses {
+  width: 30%;
+}
+.column-path {
+  width: 20%;
+}
+.column-subscriptions {
+  width: 30%;
+}

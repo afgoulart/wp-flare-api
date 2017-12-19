@@ -1,0 +1,158 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-18 19:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: flare-resources-list.php:44
+msgid "Resources list"
+msgstr ""
+
+#: flare-resources-list.php:45 flare-subscription-new.php:123
+msgid "Add new resource"
+msgstr ""
+
+#: flare-resources-list.php:46 flare-resource-new.php:89
+msgid "Add new subscription"
+msgstr ""
+
+#: flare-resources-list.php:52 flare-resources-list.php:101
+msgid "Addresses"
+msgstr ""
+
+#: flare-resources-list.php:53 flare-resources-list.php:102
+#: flare-resource-new.php:28 flare-resource-new.php:39
+msgid "Path"
+msgstr ""
+
+#: flare-resources-list.php:54 flare-resources-list.php:103
+msgid "Subscriptions"
+msgstr ""
+
+#: flare-subscription-new.php:17 flare-subscription-new.php:27
+msgid "Resources"
+msgstr ""
+
+#: flare-subscription-new.php:20
+msgid "Select a resource"
+msgstr ""
+
+#: flare-subscription-new.php:27 flare-subscription-new.php:39
+#: flare-subscription-new.php:68 flare-subscription-new.php:94
+#: flare-subscription-new.php:109 flare-resource-new.php:21
+#: flare-resource-new.php:39 flare-resource-new.php:63
+#: flare-resource-new.php:73
+msgid "Field"
+msgstr ""
+
+#: flare-subscription-new.php:34 flare-subscription-new.php:39
+msgid "Endpoint"
+msgstr ""
+
+#: flare-subscription-new.php:45
+msgid "Methods"
+msgstr ""
+
+#: flare-subscription-new.php:54 flare-subscription-new.php:68
+msgid "Headers"
+msgstr ""
+
+#: flare-subscription-new.php:74
+msgid "Options"
+msgstr ""
+
+#: flare-subscription-new.php:78
+msgid "Skip Envelope"
+msgstr ""
+
+#: flare-subscription-new.php:81
+msgid "Send Document"
+msgstr ""
+
+#: flare-subscription-new.php:86 flare-subscription-new.php:94
+msgid "Status Code (success)"
+msgstr ""
+
+#: flare-subscription-new.php:101 flare-subscription-new.php:109
+msgid "Status Code (discard)"
+msgstr ""
+
+#: flare-subscription-new.php:122 wp-flare-api.php:47 wp-flare-api.php:48
+msgid "New Subscription"
+msgstr ""
+
+#: flare-subscription-new.php:124 flare-resource-new.php:90
+msgid "List resources"
+msgstr ""
+
+#: flare-request.php:44
+msgid "Gateway Timeout"
+msgstr ""
+
+#: flare-resource-new.php:16 flare-resource-new.php:21
+msgid "Address"
+msgstr ""
+
+#: flare-resource-new.php:45
+msgid "Field Type"
+msgstr ""
+
+#: flare-resource-new.php:58 flare-resource-new.php:63
+msgid "Field modified"
+msgstr ""
+
+#: flare-resource-new.php:69 flare-resource-new.php:73
+msgid "Format field"
+msgstr ""
+
+#: flare-resource-new.php:88 wp-flare-api.php:39 wp-flare-api.php:40
+msgid "New Resource"
+msgstr ""
+
+#: wp-flare-api.php:21
+msgid "Flare Settigns API"
+msgstr ""
+
+#: wp-flare-api.php:22
+msgid "Flare Manager"
+msgstr ""
+
+#: wp-flare-api.php:31 wp-flare-api.php:32
+msgid "Resources List"
+msgstr ""
+
+#: wp-flare-api.php:169 wp-flare-api.php:199 wp-flare-api.php:207
+#: wp-flare-api.php:225 wp-flare-api.php:231 wp-flare-api.php:237
+#: wp-flare-api.php:243 wp-flare-api.php:249
+msgid "This field is required!"
+msgstr ""
+
+#: wp-flare-api.php:181 wp-flare-api.php:210 wp-flare-api.php:221
+msgid "This field is require url valid!"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Flare API"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manager Options to Flare application"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://github.com/afgoulart/wp-flare-api"
+msgstr ""
+
+#. Author of the plugin
+msgid "André Filipe Goulart"
+msgstr ""
